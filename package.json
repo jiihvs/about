@@ -1,0 +1,24 @@
+{
+  "name": "jiihvs",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiihvs/about.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"nnelledgu0": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
